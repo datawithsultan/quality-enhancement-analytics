@@ -25,7 +25,7 @@ Here are a few highlights from the interactive dashboard:
 </tr>
 </table>
 
-👉 [View the full interactive dashboard](https://hellosultan.github.io/quality-enhancement-analytics/)
+👉 [View the full interactive dashboard](https://datawithsultan.github.io/quality-enhancement-analytics/)
 
 ---
 
